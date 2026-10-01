@@ -1,0 +1,12 @@
+{
+  "name": "feishu-webhook-proxy",
+  "version": "1.0.0",
+  "description": "Discord to Feishu webhook format converter",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["feishu", "webhook", "discord", "proxy"],
+  "author": "",
+  "license": "MIT"
+}
